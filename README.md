@@ -8,6 +8,6 @@
 ## Hardware
 - Samsung Laptop (Windows 11 | i7 processor)
 - BLU G9 Pro
-## Demo
+## Demo (Outdated)
 ![](https://github.com/BSWriter/Mobile_Game_UnityProject/blob/master/NNWork1.gif)
 ![](https://github.com/BSWriter/Mobile_Game_UnityProject/blob/master/NNWork2.gif)
