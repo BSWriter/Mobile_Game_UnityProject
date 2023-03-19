@@ -1,4 +1,4 @@
-# Mobile_Game_UnityProject
+# Chase the Sun (Mobile Game Project)
 ## General
 - Chase the Sun is the tentative title
 - First Attempt at developing a mobile game to see how hard it is.
